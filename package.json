@@ -1,0 +1,12 @@
+{
+  "name": "mineflayer-bot",
+  "version": "1.0.0",
+  "main": "bot-mineflayer.js",
+  "scripts": {
+    "start": "node bot-mineflayer.js monserveur.falixsrv.me 25565 MonPseudo"
+  },
+  "dependencies": {
+    "mineflayer": "^4.16.0",
+    "mineflayer-pathfinder": "^2.3.1"
+  }
+}
